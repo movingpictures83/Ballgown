@@ -1,0 +1,2 @@
+Prefix plugins/Ballgown/example/
+Plugin Ballgown inputfile annot.gtf.gz outputfile info.csv
